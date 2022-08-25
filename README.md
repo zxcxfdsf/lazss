@@ -1,1 +1,2 @@
-# lazss
+# lazss for single  
+path:/iphonex
